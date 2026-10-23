@@ -1,7 +1,7 @@
 # WF-STATE-INDEX（專案檔案狀態索引）
 
-最後更新：2026-10-23 08:59:07 (HKT)
-Version: 1792717147
+最後更新：2026-10-23 09:38:55 (HKT)
+Version: 1792719535
 Writer: github-actions[bot]
 用途：記錄所有已交付檔案的版本與清單（由體系自動生成）
 
@@ -11,7 +11,7 @@ Writer: github-actions[bot]
 
 | 專案顯示名稱 | code | domain | package_no | repo |
 |---|---|---|---|---|
-| 家庭 webapp | webapp | W | 90 | tlee20860-dotcom/AI-WEB-APP-Family |
+| 家庭 webapp 舊版 | old-webapp | W | 90-old | tlee20860-dotcom/old-AI-WEB-APP-FAMILY |
 
 ## 二、檔案清單（自動生成）
 
@@ -34,6 +34,6 @@ Writer: github-actions[bot]
 
 /* ═══ EOF ═══
 F: WF-STATE-INDEX.md
-V: 1792717147
+V: 1792719535
 W: github-actions[bot]
 ═══ */
